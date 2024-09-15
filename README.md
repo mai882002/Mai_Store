@@ -1,16 +1,25 @@
-# store_app
+# Mai's Store App
 
-A new Flutter project.
+Welcome to the repository for Mai's Store, a mobile application designed for showcasing and selling luxury products like perfumes and cosmetics. This Flutter application provides a clean and attractive interface, making shopping an enjoyable experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse products categories.
+- View detailed descriptions and prices for each product.
+- Add products to a shopping cart.
+- Checkout interface with order summary.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here are some screenshots of the Mai's Store app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home Screen](images/Home Screen.png)  
+![Product Details](images/Product_Details.png)
+
+## Installation
+
+To get this project up and running on your local machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone URL_TO_REPOSITORY

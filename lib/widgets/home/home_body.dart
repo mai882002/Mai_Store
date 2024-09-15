@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:store_app/constants.dart';
-// import 'package:store_app/widgets/details/details_body.dart';
 import 'package:store_app/widgets/home/product_cart.dart';
 import 'package:store_app/models/product.dart';
 

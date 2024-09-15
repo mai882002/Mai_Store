@@ -17,12 +17,15 @@ AppBar homeAppBar() {
   return AppBar(
     backgroundColor: kPrimaryColor,
     elevation: 0,
-    title: Text(
-      "welcome in Mai store",
-      style: TextStyle(
-        fontFamily: 'Sevillana',
-        fontSize: 30,
-        fontWeight: FontWeight.bold,
+    title: Center(
+      child: Text(
+        "welcome in Mai store",
+        style: TextStyle(
+          fontFamily: 'Sevillana',
+          fontSize: 30,
+          fontWeight: FontWeight.bold,
+          color: const Color.fromARGB(255, 223, 221, 221),
+        ),
       ),
     ),
     centerTitle: false,
