@@ -36,7 +36,9 @@ class HomeBody extends StatelessWidget {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => DetailsScreen(),
+                          builder: (context) => DetailsScreen(
+                            product: products[index],
+                          ),
                         ),
                       );
                     },
