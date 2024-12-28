@@ -13,16 +13,6 @@ Welcome to the repository for Mai's Store, a mobile application designed for sho
 
 Here are some screenshots of the Mai's Store app:
 
-![Home Screen](images/Home Screen.png)  
-![Product Details](images/Product_Details.png)
-
-## Installation
-
-To get this project up and running on your local machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-
 https://github.com/user-attachments/assets/db74503b-70df-4196-b3d0-48514cf69268
 
-   git clone URL_TO_REPOSITORY
+
